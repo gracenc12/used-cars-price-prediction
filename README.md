@@ -1,10 +1,10 @@
-# Used Cars Pricing Strategy Optimization Analysis for Saudi Arabia Digital Platform Company
-Predicting Used Cars Price with Machine Learning
+# Used Cars Price Prediction with Machine Learning for an Automotive Platform
+Predicting Used Cars Price to Support Company's Pricing Strategy and Decisions
 ---
 
 ## **Business Context**
 
-The used-car market in Saudi Arabia is rapidly growing, valued at USD 9.6B in 2024 and projected to reach USD 16.8B by 2033. Over 40% of used-car transactions now occur through digital platforms. Buyers seek transparent, efficient, and safe pricing, while sellers need broader market reach and faster sales.
+The used-car market in Saudi Arabia is rapidly growing, valued at USD 9.6B in 2024 and projected to reach USD 16.8B by 2033. Over 40% of used-car transactions now occur through digital platforms. Buyers seek transparent, efficient, and good pricing, while sellers need broader market reach and faster sales.
 
 Syarah is one of the largest digital used-car platforms in KSA, operating as a marketplace connecting buyers and sellers, with additional services such as inspection, trade-in, and direct car purchasing.
 
