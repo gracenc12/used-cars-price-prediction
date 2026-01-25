@@ -48,8 +48,7 @@ This project uses **MAPE** and **MAE**, with MAPE as the primary metric:
 ## Tools (Tech Stack)
 
 - **Python**: Data cleaning, preprocessing, EDA  
-- **Pandas, Numpy, Scikit-Learn**: Python Libraries for Data Analysis and Machine Learning Modelling
-- **Matplotlib, Seaborn**: Python Libraries for Data Visualization
+- Python Libraries for Data Analysis and Modelling (**Pandas, Numpy, Scikit-Learn**) andLibraries for Data Visualization (**Matplotlib, Seaborn**)
 
 ## Output (Model Results & Insights)
 
